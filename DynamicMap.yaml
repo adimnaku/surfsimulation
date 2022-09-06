@@ -7,19 +7,11 @@ tiles:
 start_tile: [0, -0.5]
 
 objects:
-
-#- kind: barrier
-#  pos: [10, 0.7]
-#  rotate: 90
-#  height: 0.08 
-#  optional: false
-#  static: true
   
 - kind: duckiebot
-  pos: [5, 0.8]
-  rotate: 270
+  pos: [10, 0.2]
+  rotate: 180
   height: 0.08 
-
   static: false
 
 tile_size: 0.585
